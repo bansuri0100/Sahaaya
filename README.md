@@ -12,8 +12,12 @@ Users can also assess as to how effectively the representatives of a department 
 
 ## Screenshots
 
+Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_4.jpg?raw=true)|
 
+Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_6.jpg?raw=true)|
 
 ## Contributor(s)
