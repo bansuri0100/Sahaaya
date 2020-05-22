@@ -12,13 +12,13 @@ Users can also assess as to how effectively the representatives of a department 
 
 ## Screenshots
 
-Welcome Page               |  Login Page               | Signup Page               |  Forgot Password Page
+Home Page               |  Raise An Issue               | New Grievance               |  New Grievance
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Auth/screenshot_4.jpg?raw=true)|
+![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/1.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/2.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/3.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/4.jpg)|
 
-Home Page Sidebaar         |  Home Page       |   Home Page               |  Home Page
+Previous Issues         |  Previous Issues Details       |   Ranking Page               |  Statistics Page
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Home/screenshot_6.jpg?raw=true)|
+![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/5.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/6.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/7.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/8.jpg)|
 
 ## Contributor(s)
 * [Bhushan G Y](https://github.com/bhushangy)
