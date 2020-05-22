@@ -12,7 +12,7 @@ Users can also assess as to how effectively the representatives of a department 
 
 ## Screenshots
 
-Home Page               |  Raise An Issue               | New Grievance               |  New Grievance
+Home Page               |  New Grievance               | Raise Issue               |  Raise Issue
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/1.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/2.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/3.jpg)|![](https://github.com/bansuri0100/Sahaaya/blob/master/screenshots/4.jpg)|
 
